@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d732cb3a3e06a5a670415635",
+  "owner": "wrhtxava",
+  "repo": "page-e4e3d00a5ea8a93e2286ddf4",
+  "title": "小灰机",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e4e3d00a5ea8a93e2286ddf4",
+      "a": "小灰机",
+      "b": "机场官网线路发布页",
+      "entity": "小灰机",
+      "brand": "小灰机",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "19af4e03372ad4c88a02de0f420aa7dda46e998f896c771c20a6772d0ac0ee70",
+      "content": {
+        "primary_entity": "小灰机",
+        "keyword1": "小灰机",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，小灰机提供基础版、旗舰版与团队版三档海外加速方案，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备在线需求。旗舰版搭载 IPLC 专线并对游戏延迟做针对性优化，团队版支持企业定制路由。选择套餐后可参照各客户端配置文档导入订阅，按设备数量与流量需求挑选适合档位。",
+          "AI_HERO_SUBTITLE": "小灰机多档套餐灵活选",
+          "AI_HERO_INTRO": "小灰机面向需要稳定海外线路的用户，提供基础版、旗舰版、团队版三档订阅。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版与团队版分别强化游戏加速与企业路由能力。",
+          "AI_VISUAL_TITLE": "小灰机线路套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案节省两个月费用",
+          "AI_FEATURES_TITLE": "套餐与适配要点",
+          "AI_FEATURES_INTRO": "从小灰机三档套餐的流量、设备数与线路差异出发，快速判断适合的档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档位",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TITLE_2": "按流量需求挑套餐",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档，重度影音或多人共享更适合旗舰与团队版。",
+          "AI_FEATURE_TITLE_3": "订阅周期与年付",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，长期使用可选年付方案。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同订阅客户端，按设备类型选择并参考对应配置文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路质量上递增，可结合在线设备数量与月流量消耗选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "小灰机三档套餐的流量与设备数差异明显，先确认需求再进入配置环节。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "依据在线设备数量与每月流量需求，从小灰机三档套餐中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端是否满足该套餐的设备数量与线路要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅信息，完成后即可连接使用。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小灰机的套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "通常支持在计费周期内或续费时更换档位，具体规则以购买渠道的说明为准，建议升级前先确认剩余流量与到期时间。",
+          "AI_FAQ_QUESTION_2": "一个账号最多能在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版为 3 台，旗舰版为 5 台，团队版为 20 台同时在线。超出数量时可关闭其他设备或选择更高档套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相当于十个月价格，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年；月付则按 ¥15、¥35、¥85 每月结算，适合短期使用。",
+          "AI_FAQ_QUESTION_4": "小灰机对游戏延迟有优化吗？",
+          "AI_FAQ_ANSWER_4": "旗舰版搭载 IPLC 专线并针对游戏加速做优化，团队版提供 VIP 高带宽节点。实际延迟受本地网络与目标服务器影响。",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_5": "根据所用设备选择对应客户端，依照其配置文档导入订阅链接即可，不同客户端的导入入口与字段略有差异，建议以文档步骤为准。",
+          "AI_CLOSING_TITLE": "选对档位再连接",
+          "AI_CLOSING_TEXT": "结合设备数与月流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "0e5i.cn",
+    "host": "0e5i.cn"
+  },
+  "file_hashes": {
+    "index.html": "918947682528cdb6c3051ecdae4dcb4decc5c00c0153dfd4fc4e03c396235c09",
+    "sitemap.xml": "d7f72600992196c1cfc014c00d3c87cd37477c81cd4eea605f4bd123902bb437",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ce54a532014e398f5c54d7c29ab2deb67dc06fe025afa52f8799437dea337b01",
+    "robots.txt": "411bee25b38934aa4d56706ff98ebb33e7a81eb7239c7db1f6454bcfb2551890",
+    "8c6d47fc6c101068f53aa73327760de2.txt": "72efc2b3dea00606df263e7e3531e158b581bcd58a7ba00e48a08cc3166c9b80"
+  },
+  "revision": "8e68032bd79a49c6db8fb0e14b00ffb39f8e4ffe93632923798d5f3a9c0cca92"
+}
